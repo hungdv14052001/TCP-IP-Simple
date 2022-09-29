@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbrejK0X2IEhrA2PMADZWL6Xv88emXJ5lNkajZurywix8rP2TLbDdZPgrXyKcT1CaQWa0L0DLTIFausa22qB3g==",
+  "success": true,
+  "projectFilePath": "D:\\Trainning\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devfast\\.nuget\\packages\\supersimpletcp\\3.0.0.2\\supersimpletcp.3.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
